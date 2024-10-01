@@ -1,0 +1,12 @@
+^MANIFEST\.bak$
+Makefile(\.old)?$
+\.rej$
+CVS
+blib
+~
+.gitignore$
+Makefile$
+^.github/
+^.git/.*
+^MYMETA.*
+^MANIFEST.bak
